@@ -168,8 +168,7 @@ ${licenseBadge}
 ### - [License](#license)
 ### - [Contributing](#contributing)
 ### - [Tests](#tests)
-### - [GitHub](#github)
-### - [Email](#email)
+### - [Questions](#questions)
 ### - [References](#references)
 
 ## Description
