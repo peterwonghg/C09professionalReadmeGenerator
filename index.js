@@ -163,8 +163,7 @@ ${licenseBadge}
 ## Table of Contents:
 ### - [Description](#description)
 ### - [Usage](#usage)
-### - [Video Demo](#video)
-### - [Screenshot Demo](#screenshot)
+### - [Demo](#demo)
 ### - [License](#license)
 ### - [Contributing](#contributing)
 ### - [Tests](#tests)
@@ -180,10 +179,12 @@ ${answers.installation}
 ## Usage
 ${answers.usage}
 
-## Demo Video
+## Demo
+
+### Demo Video
 ${answers.video}
 
-## Demo Screenshot
+### Demo Screenshot
 ${answers.screenshot}
 
 ## License

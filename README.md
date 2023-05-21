@@ -7,8 +7,7 @@
 ## Table of Contents:
 ### - [Description](#description)
 ### - [Usage](#usage)
-### - [Video Demo](#video)
-### - [Screenshot Demo](#screenshot)
+### - [Demo](#demo)
 ### - [License](#license)
 ### - [Contributing](#contributing)
 ### - [Tests](#tests)
@@ -24,10 +23,12 @@ Install the Dev folder and run index.js in the integrated terminal
 ## Usage
 This Professional README Generator uses the Node.js file system (fs) module to work with the file system in the computer and the Inquirer NPM package to provide a way to capture inputs in Node.js from the integrated terminal by prompting questions and returning the answers given by the user.<br><br>It also enables the user to embed a remotely hosted video, attach images and link web references or attributes into the README documentation.
 
-## Demo Video
+## Demo
+
+### Demo Video
 [![Demo Video](./assets/images/play.png)](https://drive.google.com/file/d/1mV_kzpNNImPDRs28S44fep25VbPYj1Bz/view)
 
-## Demo Screenshot
+### Demo Screenshot
 ![Demo Screenshot](./assets/images/screenshot.png)
 
 ## License
